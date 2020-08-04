@@ -4,8 +4,16 @@
   <img align="left" alt="Roger's Linkedin" width="21px" src="https://raw.githubusercontent.com/rogercoll/rogercoll/master/assets/logo-linkedin.svg" />
 </a>
 
+</a>
+<a href="https://discord.gg/6zvZXw">
+  <img align="left" alt="Rogers's Discord" width="21px" src="https://raw.githubusercontent.com/rogercoll/rogercoll/master/assets/discord-round.svg" />
+</a>
+
 <br />
 <br />
+
+- 🌱 I’m currently learning Rust & Cloud Computing
+- 📝 Preventing Route Leaks using a Decentralized Approach - [IEEE Paper](https://ieeexplore.ieee.org/document/9142712)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
