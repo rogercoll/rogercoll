@@ -4,11 +4,6 @@
   <img align="left" alt="Roger's Linkedin" width="21px" src="https://raw.githubusercontent.com/rogercoll/rogercoll/master/assets/logo-linkedin.svg" />
 </a>
 
-</a>
-<a href="https://discord.gg/6zvZXw">
-  <img align="left" alt="Rogers's Discord" width="21px" src="https://raw.githubusercontent.com/rogercoll/rogercoll/master/assets/discord-round.svg" />
-</a>
-
 <br />
 <br />
 
